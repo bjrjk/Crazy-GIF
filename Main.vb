@@ -1,9 +1,5 @@
 ﻿Public Class Main
     Dim PicID As Integer = 0
-    Public Structure PictureSize
-        Dim Height As Integer
-        Dim Width As Integer
-    End Structure
     Public Function GetWidthHeight() As Size
         Dim Pic As Image = Image.FromFile(Application.StartupPath + "\crazy.gif")
         GetWidthHeight.Width = Pic.Width

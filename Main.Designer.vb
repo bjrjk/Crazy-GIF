@@ -28,7 +28,7 @@ Partial Class Main
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 12.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(120, 55)
+        Me.ClientSize = New System.Drawing.Size(221, 105)
         Me.Name = "Main"
         Me.ResumeLayout(False)
 
